@@ -22,4 +22,9 @@
 ## Preflight - Backend
 
 - [HTML](/src/T04_pf_backend/T04.html)
-- [PDF](/src/T03_pf_backend/T04.pdf)
+- [PDF](/src/T04_pf_backend/T04.pdf)
+
+## Preflight - Frontend
+
+- [HTML](/src/T05_pf_frontend/T05.html)
+- [PDF](/src/T05_pf_frontend/T05.pdf)
