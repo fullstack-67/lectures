@@ -146,11 +146,7 @@
 <li><img class="emoji" draggable="false" alt="💾" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f4be.svg" data-marp-twemoji=""/> <code>./Dockerfile</code> <a href="https://github.com/fullstack-67/pf-backend/blob/main/Dockerfile">(Link)</a></li>
 <li><img class="emoji" draggable="false" alt="💾" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f4be.svg" data-marp-twemoji=""/> <code>./dockerignore</code> <a href="https://github.com/fullstack-67/pf-backend/blob/main/.dockerignore">(Link)</a></li>
 <li><img class="emoji" draggable="false" alt="💾" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f4be.svg" data-marp-twemoji=""/> <code>./docker-compose.yml</code> <a href="https://github.com/fullstack-67/pf-backend/blob/main/docker-compose.yml">(Link)</a></li>
-<li><img class="emoji" draggable="false" alt="💾" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f4be.svg" data-marp-twemoji=""/> <code>./.env.test</code> from <code>.env</code>
-<ul>
-<li>Change <code>POSTGRES_HOST=postgres_container</code></li>
-</ul>
-</li>
+<li><img class="emoji" draggable="false" alt="💾" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f4be.svg" data-marp-twemoji=""/> <code>./.env.test</code> from <code>./.env.test.example</code> <a href="https://github.com/fullstack-67/pf-backend/blob/main/.env.test.example">(Link)</a></li>
 <li><img class="emoji" draggable="false" alt="⌨️" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2328.svg" data-marp-twemoji=""/> <code>docker compose --env-file ./.env.test up -d --force-recreate --build</code></li>
 </ul>
 <footer>261497: Fullstack Development</footer>
@@ -159,15 +155,16 @@
 <h1 id="push-to-dockerhub">Push to Dockerhub</h1>
 <ul>
 <li>Create an account at <a href="https://hub.docker.com">https://hub.docker.com</a>.</li>
-<li>Create repository called <code>pf-backend</code>.</li>
+<li>Create repository called <code>preflight-backend</code>.</li>
 <li>Tag image
 <ul>
-<li><img class="emoji" draggable="false" alt="⌨️" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2328.svg" data-marp-twemoji=""/> <code>docker tag pf-backend [DOCKERHUB_ACCOUNT]/pf-backend:latest</code></li>
+<li><img class="emoji" draggable="false" alt="⌨️" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2328.svg" data-marp-twemoji=""/> <code>docker tag preflight-backend [DOCKERHUB_ACCOUNT]/preflight-backend:latest</code></li>
 </ul>
 </li>
+<li><code>docker login</code></li>
 <li>Push image
 <ul>
-<li><img class="emoji" draggable="false" alt="⌨️" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2328.svg" data-marp-twemoji=""/> <code>docker push [DOCKERHUB_ACCOUNT]/pf-backend:latest</code></li>
+<li><img class="emoji" draggable="false" alt="⌨️" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2328.svg" data-marp-twemoji=""/> <code>docker push [DOCKERHUB_ACCOUNT]/preflight-backend:latest</code></li>
 </ul>
 </li>
 </ul>

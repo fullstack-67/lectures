@@ -129,8 +129,9 @@
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13" data-class="invert" data-paginate="true" data-footer="261497: Fullstack Development" data-theme="default" lang="en-US" class="invert" data-marpit-pagination="13" style="--class:invert;--paginate:true;--footer:261497: Fullstack Development;--theme:default;" data-marpit-pagination-total="24">
 <h1 id="db-user-management">DB user management</h1>
 <ul>
-<li><code>docker exec -it postgres_container bash</code></li>
+<li><code>docker exec -it pf-db bash</code></li>
 <li><code>psql -U postgres -d mydb</code></li>
+<li>Don't forget to change the password.</li>
 </ul>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-sql"><span class="hljs-keyword">REVOKE</span> <span class="hljs-keyword">CONNECT</span> <span class="hljs-keyword">ON</span> DATABASE mydb <span class="hljs-keyword">FROM</span> public;
 <span class="hljs-keyword">REVOKE</span> <span class="hljs-keyword">ALL</span> <span class="hljs-keyword">ON</span> SCHEMA public <span class="hljs-keyword">FROM</span> PUBLIC;
