@@ -18,9 +18,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "src\T06_pf_testing"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "src\T06_pf_testing"
+npm run html $folder
+npm run pdf $folder
 
 $folder = "src\T07_pf_deploy"
 npm run html $folder
