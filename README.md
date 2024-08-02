@@ -26,5 +26,5 @@
 
 ## Fullstack Landscape
 
-- [HTML](/src/T08/T01.html)
-- [PDF](/src/T08/T01.pdf)
+- [HTML](/src/T08_landscape/T01.html)
+- [PDF](/src/T08_landscape/T01.pdf)
