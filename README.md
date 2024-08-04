@@ -24,7 +24,7 @@
 | Testing    | [HTML](/src/T06_pf_testing/T06.html)  | [PDF](/src/T06_pf_testing/T06.pdf)  |
 | Deployment | [HTML](/src/T07_pf_deploy/T07.html)   | [PDF](/src/T07_pf_deploy/T07.pdf)   |
 
-[VDO Presentations](https://youtu.be/omG5X4oU4ns?si=47xtPADAPgj12Zam)
+[VDO Presentations](https://youtube.com/playlist?list=PLNGLpHQhvGrsBYoetbinh5A02H59bneg6&si=iem2GAucPrCtWg4y)
 
 ## Fullstack Landscape
 
