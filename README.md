@@ -33,5 +33,5 @@
 
 # Auth
 
-- [HTML](/src/T09_auth/T09.html)
-- [PDF](/src/T09_auth/T09.pdf)
+- [HTML](/src/T10_auth/T10.html)
+- [PDF](/src/T10_auth/T10.pdf)
