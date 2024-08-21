@@ -30,3 +30,8 @@
 
 - [HTML](/src/T08_landscape/T08.html)
 - [PDF](/src/T08_landscape/T08.pdf)
+
+# Auth
+
+- [HTML](/src/T09_auth/T09.html)
+- [PDF](/src/T09_auth/T09.pdf)

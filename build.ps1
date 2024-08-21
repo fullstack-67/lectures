@@ -26,6 +26,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T08_landscape"
+# $folder = "src\T08_landscape"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T09_auth"
 npm run html $folder
 npm run pdf $folder
