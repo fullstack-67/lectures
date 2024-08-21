@@ -31,12 +31,12 @@
 - [HTML](/src/T08_landscape/T08.html)
 - [PDF](/src/T08_landscape/T08.pdf)
 
-# TypeScript ESM
+## TypeScript ESM
 
 - [HTML](/src/T09_ts_esm/T09.html)
 - [PDF](/src/T09_ts_esm/T09.pdf)
 
-# Auth
+## Auth
 
 - [HTML](/src/T10_auth/T10.html)
 - [PDF](/src/T10_auth/T10.pdf)
