@@ -42,3 +42,4 @@
 | ------ | -------------------------------- | ------------------------------ |
 | Part 1 | [HTML](/src/T10_auth/T10p1.html) | [PDF](/src/T10_auth/T10p1.pdf) |
 | Part 2 | [HTML](/src/T10_auth/T10p2.html) | [PDF](/src/T10_auth/T10p2.pdf) |
+| Part 3 | [HTML](/src/T10_auth/T10p3.html) | [PDF](/src/T10_auth/T10p3.pdf) |
