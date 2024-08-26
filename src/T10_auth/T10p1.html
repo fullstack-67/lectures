@@ -149,9 +149,16 @@
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12" data-class="invert" data-paginate="true" data-footer="261497: Fullstack Development" data-theme="default" lang="en-US" class="invert" data-marpit-pagination="12" style="--class:invert;--paginate:true;--footer:261497: Fullstack Development;--theme:default;" data-marpit-pagination-total="25">
 <h1 id="note-2">Note (2)</h1>
 <ul>
-<li>It should be noted that the resulting &quot;hash&quot; contain <code>salt</code>.</li>
-<li>This is good since so that we do not need to keep track of it.</li>
-<li>But this also leave room for hacker to use it to regenerate rainbow table on the fly.</li>
+<li>It should be noted that the resulting &quot;hash&quot; contain <code>salt</code>.
+<ul>
+<li>The inclusion of <code>salt</code> is so that we do not need to keep track of it.</li>
+</ul>
+</li>
+<li>But this also leave room for hacker to use it to regenerate rainbow table on the fly.
+<ul>
+<li>This is why we need cost factor.</li>
+</ul>
+</li>
 </ul>
 <footer>261497: Fullstack Development</footer>
 </section>
