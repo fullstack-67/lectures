@@ -30,9 +30,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T09_ts_esm"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T09_ts_esm"
+# npm run html $folder
+# npm run pdf $folder
 
 $folder = "src\T10_auth"
 npm run html $folder
