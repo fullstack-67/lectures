@@ -38,8 +38,8 @@
 
 ## Auth
 
-| Topic  | Links                            |                                |
-| ------ | -------------------------------- | ------------------------------ |
-| Part 1 | [HTML](/src/T10_auth/T10p1.html) | [PDF](/src/T10_auth/T10p1.pdf) |
-| Part 2 | [HTML](/src/T10_auth/T10p2.html) | [PDF](/src/T10_auth/T10p2.pdf) |
-| Part 3 | [HTML](/src/T10_auth/T10p3.html) | [PDF](/src/T10_auth/T10p3.pdf) |
+| Topic  | Links                               |                                   |
+| ------ | ----------------------------------- | --------------------------------- |
+| Part 1 | [HTML](/src/T10_auth_p1/T10p1.html) | [PDF](/src/T10_auth_p1/T10p1.pdf) |
+| Part 2 | [HTML](/src/T10_auth_p2/T10p2.html) | [PDF](/src/T10_auth_p2/T10p2.pdf) |
+| Part 3 | [HTML](/src/T10_auth_p3/T10p3.html) | [PDF](/src/T10_auth_p3/T10p3.pdf) |
