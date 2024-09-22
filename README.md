@@ -49,3 +49,8 @@
 
 - [HTML](/src/T11_data_fetching/T11.html)
 - [PDF](/src/T11_data_fetching/T11.pdf)
+
+## Form and Validation
+
+- [HTML](/src/T12_form_validation/T12.html)
+- [PDF](/src/T12_form_validation/T12.pdf)

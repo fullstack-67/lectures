@@ -50,6 +50,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T11_data_fetching"
+# $folder = "src\T11_data_fetching"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T12_form_validation"
 npm run html $folder
 npm run pdf $folder
