@@ -58,6 +58,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T13_ui_libraries"
+# $folder = "src\T13_ui_libraries"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T14_react_native"
 npm run html $folder
 npm run pdf $folder
