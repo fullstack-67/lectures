@@ -66,6 +66,6 @@ $folder = "src\T14_react_native"
 npm run html $folder
 npm run pdf $folder
 
-$folder = "src\T15_mobile_services"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T15_mobile_services"
+# npm run html $folder
+# npm run pdf $folder
